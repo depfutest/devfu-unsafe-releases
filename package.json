@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@lexical/list": "^0.12.1",
     "@lexical/react": "^0.12.1"
   }
 }
